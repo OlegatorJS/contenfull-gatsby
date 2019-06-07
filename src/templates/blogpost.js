@@ -19,7 +19,7 @@ const BlogPost = ({ data }) => {
           ))}
         </div>
         <p className="body-text">{body.body}</p>
-        <Link to="/blogposts">View more posts</Link>
+        <Link to="/blogpost">View more posts</Link>
         <Link to="/">Back to Home</Link>
       </div>
     </Layout>
