@@ -9,7 +9,7 @@ const BlogPost = ({ data }) => {
             <SEO title={title} />
             <div className="blogpost">
                 <h1>{title}</h1>
-                <img alt={title} src='' />
+                <img alt={title} src={image.file.url} />
                 <div className="tags">
                     {tags.map(tag => (
                         <span className="tag" key={tag}>
@@ -32,6 +32,11 @@ export const pageQuery = graphql`
       slug
       body {
         body
+      }
+      image {
+        file {
+          url
+        }
       }
       tags
     }
