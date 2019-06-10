@@ -1,0 +1,62 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blogpost-js",
+        "jsonName": "blogpost-asd-0df",
+        "path": "/blogpost/asd/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blogpost-js",
+        "jsonName": "blogpost-automate-with-webhooks-022",
+        "path": "/blogpost/automate-with-webhooks/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blogpost-js",
+        "jsonName": "blogpost-gatsby-3ba",
+        "path": "/blogpost/gatsby/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blogpost-js",
+        "jsonName": "blogpost-hello-world-6f3",
+        "path": "/blogpost/hello-world/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blogpost-js",
+        "jsonName": "blogpost-highload-35f",
+        "path": "/blogpost/highload/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blogpost-js",
+        "jsonName": "blogpost-static-sites-are-great-3c1",
+        "path": "/blogpost/static-sites-are-great/"
+    },
+    {
+        "componentChunkName": "component---src-pages-blogposts-js",
+        "jsonName": "blogposts-5cc",
+        "path": "/blogposts/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-js",
+        "jsonName": "page-2-fbc",
+        "path": "/page-2/"
+    }
+]

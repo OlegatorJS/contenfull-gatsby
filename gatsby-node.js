@@ -4,7 +4,7 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
   // we use the provided allContentfulBlogPost query to fetch the data from Contentful
   return graphql(
-    `
+      `
       {
         allContentfulBlogPost {
           edges {
@@ -34,7 +34,7 @@ exports.createPages = ({ graphql, actions }) => {
       });
     });
   })
-    .catch(error => {
-      console.log("Error retrieving contentful data", error);
-    });
+      .catch(error => {
+        console.log("Error retrieving contentful data", error);
+      });
 };
